@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Donghyun%20Kim&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=Donghyun%20Kim&fontSize=70)
 
 <!--
 **cham0287/cham0287** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
