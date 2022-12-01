@@ -23,6 +23,6 @@ Tech Stacks
 
 조금 사용해본 기술들
 <br/>
-<img src="https://img.shields.io/badge/Nodejs
--339933?style=for-the-badge&logo=Nodejs
+<img src="https://img.shields.io/badge/Node
+-339933?style=for-the-badge&logo=Node
 &logoColor=white">
