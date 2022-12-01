@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 Tech Stacks
 
 많이 사용해본 기술들
-<img src="https://img.shields.io/badge/HTML5-#E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
