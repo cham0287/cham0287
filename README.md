@@ -26,3 +26,5 @@ Tech Stacks
 조금 사용해본 기술들
 <br/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=cham0287)](https://solved.ac/cham0287)
