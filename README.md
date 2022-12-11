@@ -30,9 +30,7 @@ Tech Stacks
 <br/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=cham0287)](https://solved.ac/cham0287)
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=유저이름)](https://solved.ac/cham0287)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cham0287)](https://solved.ac/cham0287)
 
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=cham0287&show_icons=true&include_all_commits=true)](https://github.com/cham0287/github-readme-stats)
