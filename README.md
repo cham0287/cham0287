@@ -34,7 +34,7 @@ Tech Stacks
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cham0287)](https://solved.ac/cham0287)
 
 ## Github Stats
-<p align=left> [![Github stats](https://github-readme-stats.vercel.app/api?username=cham0287&show_icons=true&include_all_commits=true)](https://github.com/cham0287/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cham0287&layout=compact)](https://github.com/cham0287/github-readme-stats)</p> 
+[![Github stats](https://github-readme-stats.vercel.app/api?username=cham0287&show_icons=true&include_all_commits=true)](https://github.com/cham0287/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cham0287&layout=compact)](https://github.com/cham0287/github-readme-stats)
 
 
 ### Visits
