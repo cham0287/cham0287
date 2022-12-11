@@ -1,4 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=Donghyun%20Kim&fontSize=70)
+## Hey 👋, This is Donghyun Kim
+[![Gmail Badge](https://img.shields.io/badge/-crtmt97@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:crtmt97@gmail.com)](mailto:crtmt97@gmail.com) [![Github Badge](https://img.shields.io/badge/-cham0287-grey?style=flat&logo=github&logoColor=white&link=https://github.com/cham0287/)](https://www.github.com/cham0287/) <p align='left'>안녕하세요</p>
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=cham0287 alt=cham0287 /> </p>
 
 <!--
 **cham0287/cham0287** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,11 +31,10 @@ Tech Stacks
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=cham0287)](https://solved.ac/cham0287)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=유저이름)](https://solved.ac/cham0287)
 
-## Hey 👋, This is Donghyun Kim
-[![Gmail Badge](https://img.shields.io/badge/-crtmt97@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:crtmt97@gmail.com)](mailto:crtmt97@gmail.com) [![Github Badge](https://img.shields.io/badge/-cham0287-grey?style=flat&logo=github&logoColor=white&link=https://github.com/cham0287/)](https://www.github.com/cham0287/) <p align='left'>안녕하세요</p>
-## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=cham0287 alt=cham0287 /> </p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=cham0287&show_icons=true&include_all_commits=true)](https://github.com/cham0287/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cham0287&layout=compact)](https://github.com/cham0287/github-readme-stats)
