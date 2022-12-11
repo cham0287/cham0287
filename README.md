@@ -31,7 +31,9 @@ Tech Stacks
 
 
 ## Algorithm
+### baekjoon
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cham0287)](https://solved.ac/cham0287) <br/>
+### Leetcode
 ![LeetCode Stats](https://leetcode.card.workers.dev/cham0287?theme=forest&font=baloo&extension=null)
 
 ## Github Stats
