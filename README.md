@@ -32,6 +32,7 @@ Tech Stacks
 
 ## Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cham0287)](https://solved.ac/cham0287)
+![LeetCode Stats](https://leetcode.card.workers.dev/cham0287?theme=forest&font=baloo&extension=null)
 
 ## Github Stats
 [![Github stats](https://github-readme-stats.vercel.app/api?username=cham0287&show_icons=true&include_all_commits=true)](https://github.com/cham0287/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cham0287&layout=compact)](https://github.com/cham0287/github-readme-stats)
