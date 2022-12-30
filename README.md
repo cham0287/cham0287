@@ -1,5 +1,5 @@
 ## Hey 👋, This is Donghyun Kim
-[![Gmail Badge](https://img.shields.io/badge/-crtmt97@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:crtmt97@gmail.com)](mailto:crtmt97@gmail.com) [![Github Badge](https://img.shields.io/badge/-cham0287-grey?style=flat&logo=github&logoColor=white&link=https://github.com/cham0287/)](https://www.github.com/cham0287/)
+[![Gmail Badge](https://img.shields.io/badge/-crtmt97@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:crtmt97@gmail.com)](mailto:crtmt97@gmail.com) [![Github Badge](https://img.shields.io/badge/-cham0287-grey?style=flat&logo=github&logoColor=white&link=https://github.com/cham0287/)](https://www.github.com/cham0287/) 
 
 
 <!--
@@ -16,12 +16,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![마이페이지-팀원-평가-남기기-_1_](https://user-images.githubusercontent.com/62415003/210032974-13b75d26-e7b5-4e47-bbb0-bb72df9027af.gif)
 
 Tech Stacks
 
 많이 사용해본 기술들
 <br/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white"/> 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"> 
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white"/> 
+<img src="https://img.shields.io/badge/styled_components-DB7093?style=for-the-badge&logo=styled-components&logoColor=yellow"/>
 
 
 
