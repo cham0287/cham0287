@@ -1,10 +1,6 @@
 ## Hey 👋, This is Donghyun Kim
 [![Gmail Badge](https://img.shields.io/badge/-crtmt97@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:crtmt97@gmail.com)](mailto:crtmt97@gmail.com) [![Github Badge](https://img.shields.io/badge/-cham0287-grey?style=flat&logo=github&logoColor=white&link=https://github.com/cham0287/)](https://www.github.com/cham0287/) 
 
-![마이페이지-팀원-평가-남기기](https://user-images.githubusercontent.com/62415003/210033878-3ecc4402-22de-4818-b522-8dc0de30bf97.gif)
-![마이페이지-매칭이력-_1_](https://user-images.githubusercontent.com/62415003/210033880-617b49ed-b9fd-4fb1-9c3c-d01713a968a8.gif)
-![로그인-_1_](https://user-images.githubusercontent.com/62415003/210033881-c46c6197-0381-49f3-ad8d-5412bae369a0.gif)
-![마이페이지-회원정보-수정-_1_-_1_](https://user-images.githubusercontent.com/62415003/210033883-e9e1d723-33b0-4e31-b774-899e0fdcde84.gif)
 
 
 
