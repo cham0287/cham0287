@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![마이페이지-팀원-평가-남기기-_1_](https://user-images.githubusercontent.com/62415003/210032974-13b75d26-e7b5-4e47-bbb0-bb72df9027af.gif)
+![마이페이지-팀원-평가-남기기-_1_-_1_](https://user-images.githubusercontent.com/62415003/210033229-657f001e-8834-4391-9a1f-773fcd11348c.gif)
 
 Tech Stacks
 
