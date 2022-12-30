@@ -1,9 +1,15 @@
 ## Hey 👋, This is Donghyun Kim
 [![Gmail Badge](https://img.shields.io/badge/-crtmt97@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:crtmt97@gmail.com)](mailto:crtmt97@gmail.com) [![Github Badge](https://img.shields.io/badge/-cham0287-grey?style=flat&logo=github&logoColor=white&link=https://github.com/cham0287/)](https://www.github.com/cham0287/) 
 
-![마이페이지-팀원-평가-남기기_테스트](https://user-images.githubusercontent.com/62415003/210034171-14e924df-de9c-469d-8aa0-7dea95f0865c.gif)
+<img src="[https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white)"> 
 
+tailwind
 
+<img src="[https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white)"/>
+
+styled-components
+
+<img src="[https://img.shields.io/badge/styled_components-DB7093?style=for-the-badge&logo=styled-components&logoColor=yellow](https://img.shields.io/badge/styled_components-DB7093?style=for-the-badge&logo=styled-components&logoColor=yellow)"/>
 
 <!--
 **cham0287/cham0287** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
