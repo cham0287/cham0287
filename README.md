@@ -1,5 +1,4 @@
-## Hey 👋, This is Donghyun Kim
-## A Frontend Developer who makes efficient code
+## Hello 👋, This is Donghyun Kim, <br/> A Frontend Developer who makes efficient code
 [![Gmail Badge](https://img.shields.io/badge/-crtmt97@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:crtmt97@gmail.com)](mailto:crtmt97@gmail.com) [![Github Badge](https://img.shields.io/badge/-cham0287-grey?style=flat&logo=github&logoColor=white&link=https://github.com/cham0287/)](https://www.github.com/cham0287/) 
 
 <img src="[https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white)">
