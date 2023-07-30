@@ -20,8 +20,6 @@ Now I'm learning
 ## Algorithm
 ### baekjoon
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cham0287)](https://solved.ac/cham0287) <br/>
-### Leetcode
-![LeetCode Stats](https://leetcode.card.workers.dev/cham0287?theme=nord&font=baloo&extension=null)
 
 
 ### Visits
