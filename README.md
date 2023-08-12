@@ -1,4 +1,4 @@
-## Hello 👋, This is Donghyun Kim, <br/> A frontend developer who writes efficient code and is interested in psychology.
+## Nice to see you 👋 This is Donghyun Kim, <br/> A frontend developer who writes readable code and loves psychology.
 
 ### Contact
 [![Gmail Badge](https://img.shields.io/badge/-crtmt97@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:crtmt97@gmail.com)](mailto:crtmt97@gmail.com) [![Github Badge](https://img.shields.io/badge/-cham0287-grey?style=flat&logo=github&logoColor=white&link=https://github.com/cham0287/)](https://www.github.com/cham0287/) 
