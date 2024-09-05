@@ -1,25 +1,26 @@
-## Frontend Developer 
-### Contact
-[![Gmail Badge](https://img.shields.io/badge/-crtmt97@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:crtmt97@gmail.com)](mailto:crtmt97@gmail.com) [![Github Badge](https://img.shields.io/badge/-cham0287-grey?style=flat&logo=github&logoColor=white&link=https://github.com/cham0287/)](https://www.github.com/cham0287/) 
-<br/>
+## Donghyun Kim, Frontend Developer
+심리학, 사회문제 해결에 관심이 많은 프론트엔드 개발자입니다.
 
-I'm familiar to
-<br/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"/> <br/> 
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/> <img src="https://img.shields.io/badge/swr-white?style=for-the-badge&logo=swr&logoColor=black"/>
-<br/>
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white"/> <img src="https://img.shields.io/badge/styled_components-DB7093?style=for-the-badge&logo=styled-components&logoColor=yellow"/>
- ![Recoil](https://img.shields.io/badge/recoil-f26b00?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2MDAiIGhlaWdodD0iNjAwIiB2aWV3Qm94PSIwIDAgNjAwIDYwMCI+PGxpbmsgeG1sbnM9IiIgdHlwZT0idGV4dC9jc3MiIGlkPSJkYXJrLW1vZGUiIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iIi8+PGcgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xNDIuNTM2IDE5OC44NThjMCAyNi4zNi0yMS4zNjggNDcuNzItNDcuNzIgNDcuNzItMjYuMzYgMC00Ny43MjItMjEuMzYtNDcuNzIyLTQ3LjcyczIxLjM2LTQ3LjcyIDQ3LjcyLTQ3LjcyYzI2LjM1NSAwIDQ3LjcyMiAyMS4zNiA0Ny43MjIgNDcuNzIiLz48cGF0aCBkPSJNNTA1LjE4IDQxNC4yMjVIMjM4LjEyNGMtMzUuMjUgMC02My45MjYtMjguNjc0LTYzLjkyNi02My45MjNzMjguNjc4LTYzLjkyNiA2My45MjYtNjMuOTI2aDEyMC43OGMyMC44MTYgMCAzNy43NTMtMTYuOTM4IDM3Ljc1My0zNy43NTZzLTE2LjkzOC0zNy43NTYtMzcuNzUzLTM3Ljc1Nkg5NC44MWMtNy4yMjcgMC0xMy4wODYtNS44Ni0xMy4wODYtMTMuMDg1IDAtNy4yMjcgNS44Ni0xMy4wODYgMTMuMDg1LTEzLjA4NmgyNjQuMDkzYzM1LjI1IDAgNjMuOTIzIDI4LjY3OCA2My45MjMgNjMuOTI2cy0yOC42NzQgNjMuOTIzLTYzLjkyMyA2My45MjNoLTEyMC43OGMtMjAuODIgMC0zNy43NTYgMTYuOTM4LTM3Ljc1NiAzNy43NiAwIDIwLjgxNiAxNi45MzggMzcuNzUzIDM3Ljc1NiAzNy43NTNINTA1LjE4YzcuMjI3IDAgMTMuMDg2IDUuODYgMTMuMDg2IDEzLjA4NSAwIDcuMjI2LTUuODU4IDEzLjA4NS0xMy4wODUgMTMuMDg1eiIvPjxwYXRoIGQ9Ik00NTcuNDY0IDQwMS4xNDJjMC0yNi4zNiAyMS4zNi00Ny43MiA0Ny43Mi00Ny43MnM0Ny43MiAyMS4zNiA0Ny43MiA0Ny43Mi0yMS4zNiA0Ny43Mi00Ny43MiA0Ny43Mi00Ny43Mi0yMS4zNi00Ny43Mi00Ny43MiIvPjwvZz48c3R5bGUgeG1sbnM9IiIgaWQ9ImRhcmstbW9kZS1jdXN0b20tY29sb3IiPgoJCTpyb290ewoJCQktLWJnLWNvbG9yOnJnYmEoMjYsMjYsMjYsMSk7CgkJCS0tdGV4dC1jb2xvcjpyZ2JhKDExMCwxMTAsMTEwLDEpOwoJCQktLWEtY29sb3I6cmdiYSg5MCwxMjAsMTIwLDEpOwoJCQktLWEtdmlzaXRlZC1jb2xvcjpyZ2JhKDEyMCwxMjAsOTAsMSk7CgkJCS0tYS1ob3Zlci1jb2xvcjpyZ2JhKDIxMSwyMTEsMjExLDEpOwoJCQktLWlucHV0LWJvcmRlci1jb2xvcjpyZ2JhKDIxMSwyMTEsMjExLDAuMik7CgkJCS0taW5wdXQtcGxhY2Vob2xkZXItY29sb3I6cmdiYSgxNzMsMjE2LDIzMCwxKTsKCQkJLS1kaWFsb2ctYmctY29sb3I6cmdiYSgzNiwzNiwzNiwwLjk1KTsKCQkJLS1iZy1pbWFnZTpsaW5lYXItZ3JhZGllbnQocmdiYSgyNiwyNiwyNiwxKSxyZ2JhKDI2LDI2LDI2LDEpKTsKCQl9Cgk8L3N0eWxlPjwvc3ZnPg==) <br/>
+Product Engineer가 되어 다양한 현실의 문제를 해결하기 위해 기획 및 디자인에도 많은 관심을 갖고 있습니다.
 
-Now I'm learning
-<br/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
+높은 생산성을 위해 LLM을 적극 활용하고 있으며, 이를 위해 AI 기술과 프롬프트 엔지니어링을 학습하고 있습니다. 
 
+현재는 ChatGPT를 통한 코드 리뷰에 LLM을 활용하고 있으며, Ollama를 활용한 로컬 LLM에 대해서도 관심을 갖고 있습니다.
+
+### Recent Articles
+- [ErrorBoundary는 왜 비동기 에러를 감지하지 못할까?](https://velog.io/@cham0287/ErrorBoundary%EB%8A%94-%EC%99%9C-%EB%B9%84%EB%8F%99%EA%B8%B0-%EC%97%90%EB%9F%AC%EB%A5%BC-%EA%B0%90%EC%A7%80%ED%95%98%EC%A7%80-%EB%AA%BB%ED%95%A0%EA%B9%8C)
+- [Javascript 모듈 시스템 파헤치기 (CommonJS, ESModule)](https://velog.io/@cham0287/CommonJS%EC%99%80-ESModule%EC%9D%B4-%EB%AD%98%EA%B9%8C)
+- [Vite, CRA 없이 React 프로젝트 빌드 직접 세팅하기 -(2) Webpack](https://velog.io/@cham0287/Vite-CRA-%EC%97%86%EC%9D%B4-React-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B9%8C%EB%93%9C-%EC%A7%81%EC%A0%91-%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0-2-Webpack)
+- [Vite, CRA 없이 React 프로젝트 빌드 직접 세팅하기 -(1) Babel](https://velog.io/@cham0287/Vite-CRA-%EC%97%86%EC%9D%B4-React-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B9%8C%EB%93%9C-%EC%A7%81%EC%A0%91-%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0-1-Babel-lwwstaoh)
+- [React state는 컴포넌트 내부에 저장되는 것이 아닙니다](https://velog.io/@cham0287/React-state%EB%8A%94-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EB%82%B4%EB%B6%80%EC%97%90-%EC%A0%80%EC%9E%A5%EB%90%98%EB%8A%94-%EA%B2%83%EC%9D%B4-%EC%95%84%EB%8B%99%EB%8B%88%EB%8B%A4)
 
 ## Algorithm
 ### baekjoon
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cham0287)](https://solved.ac/cham0287) <br/>
 
+### Contact
+[![Gmail Badge](https://img.shields.io/badge/-crtmt97@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:crtmt97@gmail.com)](mailto:crtmt97@gmail.com) [![Github Badge](https://img.shields.io/badge/-cham0287-grey?style=flat&logo=github&logoColor=white&link=https://github.com/cham0287/)](https://www.github.com/cham0287/) 
+<br/>
 
 ### Visits
 <p align=left> <img src=https://komarev.com/ghpvc/?username=cham0287 alt=cham0287 /> </p>
