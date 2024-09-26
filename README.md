@@ -6,7 +6,7 @@ Product Engineer가 되어 다양한 현실의 문제를 해결하기 위해 기
 ## ✍️ Recent Articles
 - [Vite는 왜 빠르다고 하는걸까?](https://velog.io/@cham0287/Vite-%EC%99%9C-%EC%93%B0%EB%8A%94%EC%A7%80-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0)
 - [React의 선언형 프로그래밍과 Virtual DOM](https://velog.io/@cham0287/React-%EC%84%A0%EC%96%B8%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EA%B3%BC-Virtual-DOM)
-- [ErrorBoundary는 왜 비동기 에러를 감지하지 못할까?](https://velog.io/@cham0287/ErrorBoundary%EB%8A%94-%EC%99%9C-%EB%B9%84%EB%8F%99%EA%B8%B0-%EC%97%90%EB%9F%AC%EB%A5%BC-%EA%B0%90%EC%A7%80%ED%95%98%EC%A7%80-%EB%AA%BB%ED%95%A0%EA%B9%8C)
+- [콜스택과 이벤트루프를 통해 ErrorBoundary가 비동기 에러를 감지하지 못하는 이유 이해하기](https://velog.io/@cham0287/ErrorBoundary%EB%8A%94-%EC%99%9C-%EB%B9%84%EB%8F%99%EA%B8%B0-%EC%97%90%EB%9F%AC%EB%A5%BC-%EA%B0%90%EC%A7%80%ED%95%98%EC%A7%80-%EB%AA%BB%ED%95%A0%EA%B9%8C)
 - [Javascript 모듈 시스템 파헤치기 (CommonJS, ESModule)](https://velog.io/@cham0287/CommonJS%EC%99%80-ESModule%EC%9D%B4-%EB%AD%98%EA%B9%8C)
 - [Vite, CRA 없이 React 프로젝트 빌드 직접 세팅하기 -(2) Webpack](https://velog.io/@cham0287/Vite-CRA-%EC%97%86%EC%9D%B4-React-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B9%8C%EB%93%9C-%EC%A7%81%EC%A0%91-%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0-2-Webpack)
 - [Vite, CRA 없이 React 프로젝트 빌드 직접 세팅하기 -(1) Babel](https://velog.io/@cham0287/Vite-CRA-%EC%97%86%EC%9D%B4-React-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B9%8C%EB%93%9C-%EC%A7%81%EC%A0%91-%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0-1-Babel-lwwstaoh)
