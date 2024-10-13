@@ -5,6 +5,7 @@
 Product Engineer로 성장하여 현실의 다양한 사회문제를 해결하고 싶은 꿈을 갖고 있습니다.
 
 ## ✍️ Recent Articles
+- [radix-ui asChild prop과 Render Delegation 패턴](https://velog.io/@cham0287/radix-ui-asChild-prop%EA%B3%BC-Render-Delegation-%ED%8C%A8%ED%84%B4)
 - [Vite는 왜 빠르다고 하는걸까?](https://velog.io/@cham0287/Vite-%EC%99%9C-%EC%93%B0%EB%8A%94%EC%A7%80-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0)
 - [React의 선언형 프로그래밍과 Virtual DOM](https://velog.io/@cham0287/React-%EC%84%A0%EC%96%B8%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EA%B3%BC-Virtual-DOM)
 - [콜스택과 이벤트루프를 통해 ErrorBoundary가 비동기 에러를 감지하지 못하는 이유 이해하기](https://velog.io/@cham0287/ErrorBoundary%EB%8A%94-%EC%99%9C-%EB%B9%84%EB%8F%99%EA%B8%B0-%EC%97%90%EB%9F%AC%EB%A5%BC-%EA%B0%90%EC%A7%80%ED%95%98%EC%A7%80-%EB%AA%BB%ED%95%A0%EA%B9%8C)
