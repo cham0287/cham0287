@@ -6,7 +6,7 @@ Product Engineer로 성장하여 현실의 다양한 사회문제를 해결하�
 
 ## ✍️ Recent Articles
 <a href="https://velog.io/@cham0287/posts">
-  <img height="400px" src="https://velog-github-badge.vercel.app/badge/cham0287?theme=dark&posts=10"/>
+  <img height="240px" src="https://velog-github-badge.vercel.app/badge/cham0287?theme=dark&posts=10"/>
 </a>
 </div>
 
